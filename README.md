@@ -24,6 +24,11 @@
 * adb shell, 测试是否可以连接上手机
 * 运行脚本,记得路径改成你自己的 ./monkeyrunner ~/workspace/alipay_red_helper/red_helper.py
 
+### 测试
+
+* 安装 Dev Tools 这个apk,下载地址 http://forum.xda-developers.com/showthread.php?t=872949
+* 运行后选择 Pointer Localtion, 这样可以看到脚本点到哪里了
+
 
 ### 结尾
 
